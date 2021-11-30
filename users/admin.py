@@ -7,4 +7,4 @@ class CustomUserAdmin(admin.ModelAdmin):
     pass
 
 
-admin.site.register(Author, AuthorAdmin)
+# admin.site.register(Author, AuthorAdmin)
